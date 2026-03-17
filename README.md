@@ -36,6 +36,7 @@ Designed a scalable order processing system using REST APIs, Kafka-based event f
 🔹 Agentic AI Workflow Assistant (LangChain + MCP + RAG)  
 👉 https://github.com/lalit0024/agentic-ai-assistant  
 ... This is an actively evolving project as I continue to expand its capabilities and deepen my understanding of agentic AI systems.
+
 ---
 
 ## 📈 What I Care About
