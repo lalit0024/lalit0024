@@ -29,9 +29,9 @@
 👉 https://github.com/lalit0024/LeetCode150  
 Focused on problem-solving patterns, clean code, and optimal approaches.
 
-🔹 Order Processing Microservice (Spring Boot + Event-Driven Architecture)  
-👉 https://github.com/lalit0024/order-service-microservice  
-Designed a scalable order processing system using REST APIs, Kafka-based event flow, and Redis caching. Demonstrates microservices patterns, fault tolerance, and clean architecture.
+🔹 Spring Boot Microservice (Spring Boot + Event-Driven Architecture)  
+👉 https://github.com/lalit0024/spring-boot-microservices-kafka  
+Built a microservices-based system leveraging REST APIs, Kafka-based event flow, and Redis caching. Demonstrates event-driven architecture, fault tolerance, and clean service design.
 
 🔹 Agentic AI Workflow Assistant (LangChain + MCP + RAG)  
 👉 https://github.com/lalit0024/agentic-ai-assistant  
